@@ -1,0 +1,19 @@
+body {
+background-image: url(premium_photo-1675118548262-60f7e4e77483.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+background-size: cover;
+}
+
+h2 {
+   color: rgb(255, 115, 0);
+}
+
+h1 {
+    color: rgb(34, 68, 178);
+}
+
+p {
+    color: #000000;
+}
